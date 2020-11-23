@@ -28,34 +28,34 @@
 			<h2 style='color:orange'>Orange Hat is at the moment a fork of Oracle Linux 8 with UEK but will later be moved to something else. The project is now in the first working stage of BETA.</h2>
                         </header>
 
-                        <h3>Highlights:</h3>
+                        <h3 style='color:orange'>Highlights:</h3>
 
                         <ul>
-                            <li>Will be Open Source</li>
-			    <li>Tries to have as good as possible software compability</li>
-			    <li>Comes with the newest avaliable packages (Newest when a version is released)</li>
+                            <li style='color:orange'>Will be Open Source</li>
+			    <li style='color:orange'>Tries to have as good as possible software compability</li>
+			    <li style='color:orange'>Comes with the newest avaliable packages (Newest when a version is released)</li>
 			    
                         </ul>
 
-                        <p>Orange Hat is work in progress and not avaliable anywhere at the moment. When Orange Hat will be released you can find it from my <a href="https://github.com/MrVeink/Orange-Hat">GitHub page.</a></p>
+                        <p style='color:orange'>Orange Hat is work in progress and not avaliable anywhere at the moment. When Orange Hat will be released you can find it from my <a href="https://github.com/MrVeink/Orange-Hat">GitHub page.</a></p>
 
                         <section>
-                            <h3>Sites to visit:</h3>
+                            <h3 style='color:orange'>Sites to visit:</h3>
 
                             <div class="row">
                                 <div class="col-md-6">
                                     <ul>
                                         <li>
-                                            <h4><a href="https://discord.gg/RK53QfdYpW">Orange Hat Official Discord Server</a></h4>
-                                            <p>This is the official Discord server for the Orange Hat operating system. Here you can ask for help, give ideas, tell about bugs or just chat.</p>
+                                            <h4 style='color:orange'><a href="https://discord.gg/RK53QfdYpW">Orange Hat Official Discord Server</a></h4>
+                                            <p style='color:orange'>This is the official Discord server for the Orange Hat operating system. Here you can ask for help, give ideas, tell about bugs or just chat.</p>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6">
                                     <ul>
                                         <li>
-                                            <h4><a href="https://github.com/MrVeink/orange-hat-linux">Orange Hat GitHub Page</a></h4>
-                                            <p>This is where Orange Hat will be released and distrubuted.</p>
+                                            <h4 style='color:orange'><a href="https://github.com/MrVeink/orange-hat-linux">Orange Hat GitHub Page</a></h4>
+                                            <p style='color:orange'>This is where Orange Hat will be released and distrubuted.</p>
                                         </li>
                                     </ul>
                                 </div>
