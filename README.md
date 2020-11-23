@@ -8,7 +8,7 @@
 
     </head>
 
-    <body>
+    <body bgcolor="black">
 
         <div class="container">
             
