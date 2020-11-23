@@ -4,7 +4,6 @@
         <meta charset="utf-8" />
 
         <link rel="shortcut icon" href="https://icon-icons.com/downloadimage.php?id=154443&root=2591/ICO/128/&file=laptop_protection_security_protected_icon_154443.ico" />
-        <link rel="stylesheet" media="all" href="https://github.com/MrVeink/orange-hat/blob/main/common/css/styles.css" />
 
     </head>
 
