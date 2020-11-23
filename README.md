@@ -61,6 +61,7 @@
                             </div>
                         </section>
 
+			<p></p>
                         <p style='color:orange'>Orange Hat is not affiliated with Red Hat nor Oracle.</p>
 			<p></p>
 
