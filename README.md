@@ -25,7 +25,7 @@
                     <article id="content" role="main">
 
                         <header>
-			<h2>Orange Hat is at the moment a fork of Oracle Linux 8 with UEK but will later be moved to something else. The project is now in the first working stage of BETA.</h2>
+			<h2 style='color:orange'>Orange Hat is at the moment a fork of Oracle Linux 8 with UEK but will later be moved to something else. The project is now in the first working stage of BETA.</h2>
                         </header>
 
                         <h3>Highlights:</h3>
