@@ -2,7 +2,7 @@
  * Normalize & Bootstrap
 ==========================*/
 
-@import url("bootstrap.min.css");
+@import url("https://github.com/MrVeink/orange-hat/blob/main/common/css/bootstrap.min.css");
 
 body {
 	padding: 20px 0 40px;
