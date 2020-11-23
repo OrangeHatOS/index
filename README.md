@@ -8,7 +8,7 @@
 
     </head>
 
-    <body style="background-color:gray;">
+    <body style="background-color:gray-dark;">
 
         <div class="container">
             
