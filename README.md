@@ -8,7 +8,7 @@
 
     </head>
 
-    <body style="background-color:black;">
+    <body style="background-color:gray;">
 
         <div class="container">
             
@@ -62,7 +62,7 @@
                             </div>
                         </section>
 
-                        <p style='color:orange'>Orange Hat is not affiliated with Red Hat nor Oracle.<p>
+                        <p style='color:orange'>Orange Hat is not affiliated with Red Hat nor Oracle.</p>
 
                     </article>
                 </div>
