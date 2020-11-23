@@ -46,7 +46,7 @@
                                 <div class="col-md-6">
                                     <ul>
                                         <li>
-                                            <h4 style='color:orange'><a href="https://discord.gg/RK53QfdYpW">Orange Hat Official Discord Server</a></h4>
+                                            <h4 style='color:orange'><a class="orange" href="https://discord.gg/RK53QfdYpW">Orange Hat Official Discord Server</a></h4>
                                             <p style='color:orange'>This is the official Discord server for the Orange Hat operating system. Here you can ask for help, give ideas, tell about bugs or just chat.</p>
                                         </li>
                                     </ul>
@@ -54,7 +54,7 @@
                                 <div class="col-md-6">
                                     <ul>
                                         <li>
-                                            <h4 style='color:orange'><a href="https://github.com/MrVeink/orange-hat-linux">Orange Hat GitHub Page</a></h4>
+                                            <h4 style='color:orange'><a class="orange" href="https://github.com/MrVeink/orange-hat-linux">Orange Hat GitHub Page</a></h4>
                                             <p style='color:orange'>This is where Orange Hat will be released and distrubuted.</p>
                                         </li>
                                     </ul>
