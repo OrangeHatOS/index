@@ -1,6 +1,5 @@
 <html lang="en">
     <head>
-        <title>Orange Hat</title>
 
         <meta charset="utf-8" />
 
@@ -19,7 +18,6 @@
                     <div class="header-graphic v3-banner platform-banner rhel-banner" role="banner">
                         <div class="graphic-inner">
                             <div class="graphic-inner2">
-                                <div class="banner-title"><span>Orange </span>Hat BETA</div>
                             </div>
                         </div>
                     </div>
