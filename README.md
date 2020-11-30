@@ -62,7 +62,7 @@
                         </section>
 
 			<p>" "</p>
-                        <p style='color:orange'>Orange Hat is not affiliated with Red Hat nor Oracle.</p>
+                        <p style='color:orange'>Orange Hat is not affiliated with Red Hat, Oracle, Fedora, CentOS nor any other companies/groups/teams.</p>
 			<p></p>
 
                     </article>
