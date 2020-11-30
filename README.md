@@ -24,7 +24,7 @@
                     <article id="content" role="main">
 
                         <header>
-			<h2 style='color:orange'>Orange Hat is a fork of the popular Fedora Linux. All files excluding the logo was deleated becouse of some shit heads.</h2>
+			<h2 style='color:orange'>Orange Hat is a fork of the popular Fedora Linux. All files excluding the logo was deleated becouse of some $h!t heads.</h2>
                         </header>
 
                         <h3 style='color:orange'>Highlights:</h3>
