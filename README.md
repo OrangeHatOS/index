@@ -58,6 +58,14 @@
                                         </li>
                                     </ul>
                                 </div>
+                                <div class="col-md-6">
+                                    <ul>
+                                        <li>
+                                            <h4 style='color:orange'><a class="orange" href="https://www.patreon.com/OrangeHatLinux">Orange Hat Patreon Page</a></h4>
+                                            <p style='color:orange'>This is the official Patreon of the project. You can donate if you want to, but no need to. If you donate a little more you get special privileges on my Discord Server and Early Access to the OS.</p>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </section>
 
