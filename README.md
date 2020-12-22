@@ -24,15 +24,15 @@
                     <article id="content" role="main">
 
                         <header>
-			<h2 style='color:orange'>Orange Hat is a fork of the popular Fedora Linux. All files excluding the logo was deleated becouse of some $h!t heads.</h2>
+			<h2 style='color:orange'>Orange Hat is an operating system that excists in two versions. Orange Hat will be avaliabe both in a Linux version and a FreeBSD version. It is in development and testing will start in January of 2021.</h2>
                         </header>
 
                         <h3 style='color:orange'>Highlights:</h3>
 
                         <ul>
-                            <li style='color:orange'>Will be Open Source</li>
-			    <li style='color:orange'>Tries to have as good as possible software compability</li>
-			    <li style='color:orange'>Comes with the newest avaliable packages (Newest when a version is released)</li>
+                            <li style='color:orange'>Open source. The Linux version will be under the same license as Fedora and the FreeBSD version will be under BSD 2 Clause license.</li>
+			    <li style='color:orange'>Great support and compability.</li>
+			    <li style='color:orange'>We want privacy to everyone and Orange Hat will be both powerful and easy to use.</li>
 			    
                         </ul>
 
@@ -54,7 +54,7 @@
                                     <ul>
                                         <li>
                                             <h4 style='color:orange'><a class="orange" href="https://github.com/MrVeink/orange-hat-linux">Orange Hat GitHub Page</a></h4>
-                                            <p style='color:orange'>This is where Orange Hat will be released and distrubuted.</p>
+                                            <p style='color:orange'>This is where Orange Hat will be released and distrubuted. The link may change in the future.</p>
                                         </li>
                                     </ul>
                                 </div>
@@ -72,7 +72,7 @@
                         </section>
 
 			<p>" "</p>
-                        <p style='color:orange'>Orange Hat is not affiliated with Red Hat, Oracle, Fedora, CentOS nor any other companies/groups/teams.</p>
+                        <p style='color:orange'>Orange Hat is not affiliated with Red Hat, Oracle, Fedora, CentOS, FreeBSD nor any other companies/groups/teams.</p>
 			<p></p>
 
                     </article>
