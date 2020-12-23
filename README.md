@@ -30,10 +30,15 @@
                         <h3 style='color:orange'>Highlights:</h3>
 
                         <ul>
-                            <li style='color:pink'>Open source. The Linux version will be under the same license as Fedora and the FreeBSD version will be under BSD 2 Clause license.</li>
-			    <li style='color:pink'>Great support and compability.</li>
-			    <li style='color:pink'>We want privacy to everyone and Orange Hat will be both powerful and easy to use.</li>
-			    
+                            <li style='color:pink'>
+                                <h4 style='color:orange>Open source. The Linux version will be under the same license as Fedora and the FreeBSD version will be under BSD 2 Clause license.</h4>
+                            </li>
+			    <li style='color:pink'>
+                                <h4 style='color:orange>Great support and compability.</h4>
+                            </li>
+			    <li style='color:pink'>
+                                <h4 style='color:orange>We want privacy to everyone and Orange Hat will be both powerful and easy to use.</h4>
+                            </li>
                         </ul>
 
                         <p style='color:orange'>Orange Hat is work in progress and not avaliable anywhere at the moment. When Orange Hat will be released you can find it from my <a href="https://github.com/MrVeink/Orange-Hat">GitHub page.</a></p>
@@ -45,7 +50,7 @@
                                 <div class="col-md-6">
                                     <ul>
                                         <li style='color:pink'>
-                                            <h4 style='color:orange'><a class="orange" href="https://discord.gg/RK53QfdYpW">Orange Hat Official Discord Server</a></h4>
+                                            <h4 style='color:orange'><a style='color:orange' href="https://discord.gg/RK53QfdYpW">Orange Hat Official Discord Server</a></h4>
                                             <p style='color:orange'>This is the official Discord server for the Orange Hat operating system. Here you can ask for help, give ideas, tell about bugs or just chat.</p>
                                         </li>
                                     </ul>
