@@ -35,7 +35,7 @@
 			    <li style="color: #ff6f00;">We want privacy to everyone and Orange Hat will be both powerful and easy to use.</li>
                         </ul>
 
-                        <p style="color: #ff6f00;">Orange Hat is work in progress and not avaliable anywhere at the moment. When Orange Hat will be released you can find it from my <a style="color: #e96916;" href="https://github.com/MrVeink/Orange-Hat">GitHub page.</a></p>
+                        <p style="color: #ff6f00;">Orange Hat is work in progress and not avaliable anywhere at the moment. When Orange Hat will be released you can find it from my <a style="color: #e96996;" href="https://github.com/MrVeink/Orange-Hat">GitHub page.</a></p>
 
                         <section>
                             <h3 style="color: #ff6f00;">Sites to visit:</h3>
@@ -44,7 +44,7 @@
                                 <div class="col-md-6">
                                     <ul>
                                         <li style="color: #ff6f00;">
-                                            <h4 style="color: #ff6f00;"><a style="color: #e96916;" href="https://discord.gg/RK53QfdYpW">Orange Hat Official Discord Server</a></h4>
+                                            <h4 style="color: #ff6f00;"><a style="color: #e96996;" href="https://discord.gg/RK53QfdYpW">Orange Hat Official Discord Server</a></h4>
                                             <p style="color: #ff6f00;">This is the official Discord server for the Orange Hat operating system. Here you can ask for help, give ideas, tell about bugs or just chat.</p>
                                         </li>
                                     </ul>
@@ -52,7 +52,7 @@
                                 <div class="col-md-6">
                                     <ul>
                                         <li style="color: #ff6f00;">
-                                            <h4 style="color: #ff6f00;"><a style="color: #e96916;" href="https://github.com/MrVeink/orange-hat-linux">Orange Hat GitHub Page</a></h4>
+                                            <h4 style="color: #ff6f00;"><a style="color: #e96996;" href="https://github.com/MrVeink/orange-hat-linux">Orange Hat GitHub Page</a></h4>
                                             <p style="color: #ff6f00;">This is where Orange Hat will be released and distrubuted. The link may change in the future.</p>
                                         </li>
                                     </ul>
@@ -60,7 +60,7 @@
                                 <div class="col-md-6">
                                     <ul>
                                         <li style="color: #ff6f00;">
-                                            <h4 style="color: #ff6f00;"><a style="color: #e96916;" href="https://www.patreon.com/OrangeHatLinux">Orange Hat Patreon Page</a></h4>
+                                            <h4 style="color: #ff6f00;"><a style="color: #e96996;" href="https://www.patreon.com/OrangeHatLinux">Orange Hat Patreon Page</a></h4>
                                             <p style="color: #ff6f00;">This is the official Patreon of the project. You can donate if you want to, but no need to. If you donate a little more you get special privileges on my Discord Server and Early Access to the OS.</p>
                                         </li>
                                     </ul>
