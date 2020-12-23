@@ -44,7 +44,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <ul>
-                                        <li>
+                                        <li style='color:pink>
                                             <h4 style='color:orange'><a class="orange" href="https://discord.gg/RK53QfdYpW">Orange Hat Official Discord Server</a></h4>
                                             <p style='color:orange'>This is the official Discord server for the Orange Hat operating system. Here you can ask for help, give ideas, tell about bugs or just chat.</p>
                                         </li>
@@ -52,7 +52,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <ul>
-                                        <li>
+                                        <li style='color:pink>
                                             <h4 style='color:orange'><a class="orange" href="https://github.com/MrVeink/orange-hat-linux">Orange Hat GitHub Page</a></h4>
                                             <p style='color:orange'>This is where Orange Hat will be released and distrubuted. The link may change in the future.</p>
                                         </li>
@@ -62,7 +62,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <ul>
-                                        <li>
+                                        <li style='color:pink>
                                             <h4 style='color:orange'><a class="orange" href="https://www.patreon.com/OrangeHatLinux">Orange Hat Patreon Page</a></h4>
                                             <p style='color:orange'>This is the official Patreon of the project. You can donate if you want to, but no need to. If you donate a little more you get special privileges on my Discord Server and Early Access to the OS.</p>
                                         </li>
