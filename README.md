@@ -52,7 +52,7 @@
                                 <div class="col-md-6">
                                     <ul>
                                         <li style='color:orange'>
-                                            <h4 style='color:orange'><a style='color:FF6F06' href="https://github.com/MrVeink/orange-hat-linux">Orange Hat GitHub Page</a></h4>
+                                            <h4 style='color:orange'><a style='color:ff6f06' href="https://github.com/MrVeink/orange-hat-linux">Orange Hat GitHub Page</a></h4>
                                             <p style='color:orange'>This is where Orange Hat will be released and distrubuted. The link may change in the future.</p>
                                         </li>
                                     </ul>
