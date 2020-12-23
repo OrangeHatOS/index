@@ -35,7 +35,7 @@
 			    <li style="color: #ff6f00;">We want privacy to everyone and Orange Hat will be both powerful and easy to use.</li>
                         </ul>
 
-                        <p style="color: #ff6f00;">Orange Hat is work in progress and not avaliable anywhere at the moment. When Orange Hat will be released you can find it from my <a style="color: #ff6f00;" href="https://github.com/MrVeink/Orange-Hat">GitHub page.</a></p>
+                        <p style="color: #ff6f00;">Orange Hat is work in progress and not avaliable anywhere at the moment. When Orange Hat will be released you can find it from my <a style="color: #ff6f06;" href="https://github.com/MrVeink/Orange-Hat">GitHub page.</a></p>
 
                         <section>
                             <h3 style="color: #ff6f00;">Sites to visit:</h3>
