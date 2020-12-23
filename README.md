@@ -71,7 +71,7 @@
                             </div>
                         </section>
 
-			<p>" "</p>
+			<p>‎‎‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎</p>
                         <p style='color:orange'>Orange Hat is not affiliated with Red Hat, Oracle, Fedora, CentOS, FreeBSD nor any other companies/groups/teams.</p>
 			<p></p>
 
