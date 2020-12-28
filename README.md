@@ -30,7 +30,7 @@
                         <h3 style="color: #ff6f00;">Highlights:</h3>
 
                         <ul>
-                            <li style="color: #ff6f00;">Open source. The Linux version will be under the same license as Fedora and the FreeBSD version will be under BSD 2 Clause license.</li>
+                            <li style="color: #ff6f00;">Open source. The Linux version will be under some open source license (not yet decided) and the FreeBSD version will be under BSD 2 Clause license.</li>
 			    <li style="color: #ff6f00;">Great support and compability.</li>
 			    <li style="color: #ff6f00;">We want privacy to everyone and Orange Hat will be both powerful and easy to use.</li>
                         </ul>
