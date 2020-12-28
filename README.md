@@ -1,4 +1,4 @@
-<html lang="en">
+,,<html lang="en">
     <head>
 
         <meta charset="utf-8" />
@@ -10,7 +10,7 @@
     <body style="background-color:black;">
 
         <div class="container">
-            
+
             <div class="row">
 
                 <div class="col-md-8 col-md-offset-2">
@@ -24,7 +24,7 @@
                     <article id="content" role="main">
 
                         <header>
-			<h2 style="color: #ff6f00;">Orange Hat is an operating system that excists in two versions. Orange Hat will be avaliabe both in a Linux version and a FreeBSD version. It is in development and testing will start in January of 2021.</h2>
+			<h2 style="color: #ff6f00;">Orange Hat is an operating system that exists in two versions. Orange Hat will be avaliabe both in a Linux version and a FreeBSD version. It is in development and testing will start in January of 2021.</h2>
                         </header>
 
                         <h3 style="color: #ff6f00;">Highlights:</h3>
